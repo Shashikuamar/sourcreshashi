@@ -1,0 +1,497 @@
+history
+    1  cd -
+    2  git branch
+    3  git branch shashi
+    4  git branch
+    5  git checkout
+    6  git checkout shashi
+    7  git checkout master
+    8  cd ..
+    9  cd ..
+   10  ls
+   11  git clone
+   12  git clone https://github.com/Shashikuamar/chetan.git
+   13  clear
+   14  ls
+   15  clear
+   16  mkdir shashi
+   17  ls
+   18  mkdir sss
+   19  sudo mkdir shashi
+   20  sudo _i mkdir shashi
+   21  mkdir shashi
+   22  cd -
+   23  ls
+   24  cd ..
+   25  cd desktop
+   26  ls
+   27  cd ..
+   28  cd ..
+   29  cd ..
+   30  ls
+   31  cd onedrive
+   32  clear
+   33  cd
+   34  ls
+   35  cd /OneDrive/Desktop
+   36  cd OneDrive/desktop
+   37  ls
+   38  clear
+   39  git clone https://github.com/Shashikuamar/chetan.git
+   40  ls
+   41  cd chetan/
+   42  clear
+   43  ls
+   44  vi README.md
+   45  git status
+   46  git commit -m "shashi yyyy"
+   47  git add .
+   48  git status
+   49  git commit -m "shashi yyyy"
+   50  ls
+   51  git push
+   52  git branch sussu
+   53  git branch
+   54  git checkout sussu
+   55  git status
+   56  git add .
+   57  git status
+   58  git push --all
+   59  git branch dagar
+   60  git branch
+   61  git checkout master
+   62  git branch
+   63  git checkout
+   64  git checkout shashi
+   65  git branch shashi
+   66  git branch
+   67  git checkout shashi
+   68  branch -d sussu
+   69  git branch -d sussu
+   70  git branch -d dagar
+   71  git branch shashi
+   72  git branch master
+   73  git checkout shashi
+   74  git checkout master
+   75  git --h
+   76  git -h
+   77  git remote -h
+   78  vim radmi
+   79  ls
+   80  git rm radmi
+   81  rm radmi
+   82  ls
+   83  cd kkk
+   84  cd..
+   85  cd ..
+   86  cd ../../
+   87  cd kkk
+   88  cd /kkk
+   89  cd
+   90  cd c
+   91  cd /c
+   92  cd kkk
+   93  ls
+   94  cd ..
+   95  git clone https://github.com/Shashikuamar/kkk.git
+   96  cd -
+   97  git remote -h
+   98  git remote add origin master git@github.com:Shashikuamar/kkk.git
+   99  git remote add origin git@github.com:Shashikuamar/kkk.git
+  100  git remote add origin git@github.com:Shashikuamar/kkk.git
+  101  git status
+  102  git add .
+  103  git status
+  104  git push origin master
+  105  exit
+  106  python --vesion
+  107  python3 first.py
+  108  python3 first.py
+  109  python --vesion
+  110  python -h
+  111  python3 first.py
+  112  exit
+  113  cd Downloads/
+  114  ls
+  115  ls -l
+  116  exit
+  117  ls
+  118  ls -l
+  119  chmod +x first.sh
+  120  ls -l
+  121  bash first.sh
+  122  cd ..
+  123  rm SourceCode/
+  124  rm SourceCode/
+  125  exit
+  126  exit
+  127  cd /c/sourcecode22/
+  128  ls
+  129  git  --help
+  130  git ---help
+  131  git -v
+  132  git --vesrsion
+  133  git status
+  134  git init
+  135  cd .git
+  136  ls
+  137  ls -l
+  138  cd ..
+  139  cd ..
+  140  ls
+  141  cd ProgramData/
+  142  ls
+  143  git status
+  144  cd .git
+  145  cd ..
+  146  cd sourcecode22/
+  147  git status
+  148  git add first.sh
+  149  git status
+  150  git commit -m"my first shell script"
+  151  git status
+  152  git status
+  153  git add first.sh
+  154  git status
+  155  git commit -m"i have solved the issue on line #15"
+  156  git status
+  157  git add second.sh
+  158  git commit -m"added second.sh"
+  159  git log
+  160  git --help
+  161  cd .git/
+  162  ls
+  163  cat HEAD
+  164  cd refs/heads/
+  165  LSLSSLL
+  166  LS
+  167  ls
+  168  ls -l
+  169  cat master
+  170  cd ..
+  171  cd ..
+  172  cd ..
+  173  cd -
+  174  ls -l
+  175  cat index
+  176  ls -l
+  177  cd ..
+  178  git status
+  179  git status
+  180  git add .
+  181  git commit -m"deleted second.sh and added first.py"
+  182  git status
+  183  git --h
+  184  git -h
+  185  git remote -h
+  186  cd ..
+  187  git clone https://github.com/Shashikuamar/sourcecode22.git
+  188  cd -
+  189  git remote -h
+  190  git remote add origin master git@github.com:Shashikuamar/sourcecode22.git
+  191  git remote add origin git@github.com:Shashikuamar/sourcecode22.git
+  192  git status
+  193  git remote -v
+  194  git push origin master
+  195  git push
+  196   git push --set-upstream origin master
+  197  push.autoSetupRemote' in 'git help config'
+  198  push.autoSetupRemote' in 'git help config'
+  199  git help config
+  200  push.autoSetupRemote
+  201  git push
+  202  git config --global push.default current
+  203  git push origin master
+  204  ssh-keygen -t rsa
+  205  git status
+  206  git add .
+  207  git commit -m"added one more line in first.py"
+  208  git push
+  209  git push origin master
+  210  ssh-keygen -t rsa
+  211  cat/c/Users/shash/.ssh/id_rsa.pub
+  212  cat /c/Users/shash/.ssh/id_rsa.pub
+  213  git push origin master
+  214  git status
+  215  git commit -m"modified first.py"
+  216  git push origin master
+  217  history
+  218  historty
+  219  ld
+  220  cd /c/sourcecode22/
+  221  ls
+  222  python first.py
+  223  bash
+  224  bash first.sh
+  225  git status
+  226  git branch
+  227  ls
+  228  git pull
+  229   git status
+  230   git status
+  231  git add .
+  232  git commit -m"modified first.py"
+  233  git status
+  234  git push origin master
+  235  ls
+  236  git fetch
+  237  git status
+  238  ls
+  239  git merge
+  240  git merge master
+  241  ls
+  242  git fetch
+  243  git merge origin
+  244  git merge origin master
+  245  git merge -h
+  246  git branch
+  247  git pull
+  248  git pull origin master
+  249  git branch
+  250  git pull origin main
+  251  git branch
+  252  git checkout main
+  253  git pull origin main
+  254  ls
+  255  git branch
+  256  git checkout main
+  257   ls
+  258  git checkout master
+  259  ls
+  260  git branch feature
+  261  git branch
+  262  git checkout -b hotfix
+  263  ls
+  264  git checkout feature
+  265  ls
+  266  git status
+  267  git add .
+  268  git commit -m"feature is added"
+  269  git status
+  270  ls
+  271  git checout master
+  272  git chekout master
+  273  git checkout master
+  274  ls
+  275   git checkout feature
+  276  git chekout master
+  277  git checkout master
+  278  git status
+  279  git add .
+  280  git commit -m"merging frm feature to master"
+  281  git log
+  282  git checkout master
+  283  git merge feature
+  284  ls
+  285  git status
+  286  git log
+  287  git checkout -b merge-conflict
+  288  ls
+  289  git status
+  290  git add feature.sh
+  291  git commit -m"modifiede first.sh"
+  292  git status
+  293  ls
+  294  git checkout master
+  295  git add feature.sh
+  296  git commit -m"modifiede first.sh from master"
+  297  git merge merge-conflict
+  298   bash feature.sh
+  299  exit
+  300  ls
+  301  clear
+  302  cd /c/sourcecode22
+  303  exit
+  304  cd /c/sourcecode33
+  305  ls
+  306  git --help
+  307  git status
+  308  git init
+  309  cd .git
+  310  ls
+  311  ls -l
+  312  git status
+  313  cd ..
+  314  git config --global user,email
+  315  git config --global list
+  316  git config --global list
+  317  git config --global --list
+  318  git status
+  319  git add first.sh
+  320  git commit -m"my first shell script"
+  321  git status
+  322  git add .
+  323  git status
+  324  git status
+  325  git add first.sh
+  326  git status
+  327  git commit -m"i have solove the issue on line #15"
+  328  git status
+  329  git status
+  330  git add second.sh
+  331  git commit -m"added second.sh"
+  332  git log
+  333  git --help
+  334  git -h
+  335     cd .git/
+  336  ls
+  337  cat HEAD
+  338  cd refs/heads/master
+  339  cd refs/heads/
+  340  LS
+  341  ls -l
+  342  cat master
+  343  cd ..
+  344  cd ..
+  345  ls
+  346   ls -l
+  347  cat index
+  348  cat hooks
+  349  cat config
+  350  cd ..
+  351  git status
+  352  git status
+  353  git add .
+  354  git commit -m"deleted second.sh added first.py"
+  355  git status
+  356  git --h
+  357  git -h
+  358  cd ..
+  359  cd -
+  360  cd ..
+  361  git clone https://github.com/Shashikuamar/sourcecode33.git
+  362  ls
+  363  cd -
+  364  git remote -h
+  365  git remote add origin master git@github.com:Shashikuamar/sourcecode33.git
+  366  git remote add origin git@github.com:Shashikuamar/sourcecode33.git
+  367  git status
+  368  git remote -v
+  369  git push orogin master
+  370  git push origin master
+  371  ssh -keygen -t rsa
+  372  ssh-keygen -t rsa
+  373  git status
+  374  git add .
+  375  git commit -m"added one line first.py"
+  376  git push origin master
+  377  ssh-keygen -t rsa
+  378  cat/c/Users/shash/.ssh/id_rsa.pub
+  379  cat /c/Users/shash/.ssh/id_rsa.pub
+  380  git push origin master
+  381  git status
+  382  git push origin master
+  383  git status
+  384  history
+  385  ls
+  386  cd Downloads/
+  387  ls
+  388  git clone
+  389  ls -l
+  390  cd Downloads/
+  391  ls
+  392  git status
+  393  clear
+  394  cd /c/sourcecode
+  395  cd ..
+  396  cd .
+  397  cd /c/sourcecode
+  398  cd /oneddrive
+  399  cd OneDrive/Desktop/SourceCode
+  400  ls
+  401  ls -l
+  402  git --help
+  403  git -v
+  404  git --version
+  405  git status
+  406  git init
+  407  cd .git
+  408  ls
+  409   ls -l
+  410  cd ..
+  411  cd ..
+  412  cd ..
+  413  ls
+  414  cd desktop
+  415  ls
+  416  cd Desktop
+  417  cd SourceCode/
+  418  cd ..
+  419  cd chetan/
+  420  git status
+  421  cd .git
+  422  ls
+  423  cd ..
+  424  cd ..
+  425  cd SourceCode/
+  426  git status
+  427  git add first1.sh
+  428  git status
+  429  git commit -m"my first shell script"
+  430  git status
+  431  git status
+  432  git add first1.sh
+  433  git status
+  434  git commit -m"i have solved the issue on line #15"
+  435  git status
+  436  git add second.sh
+  437  git commit -m"added second.sh"
+  438  git log
+  439  clear
+  440  cd .git/
+  441  ls
+  442  cd refs
+  443  cd ..
+  444  cd HEAD
+  445  cat HEAD
+  446  cd refs/heads/master
+  447  cd refs/heads
+  448  ls
+  449  cat master
+  450  cd ..
+  451  cd ..
+  452  ls -l
+  453  cat index
+  454  cd ..
+  455  git status
+  456  git add .
+  457  git status
+  458  git commit -m"deleted second.sh and added first.py"
+  459  git status
+  460  history
+  461  cd OneDrive/desktop/SourceCode/
+  462  git -h
+  463  git remote -h
+  464  cd ..
+  465  git clone git@github.com:Shashikuamar/sourcreshashi.git
+  466  cd -
+  467  git clone git@github.com:Shashikuamar/sourcreshashi.git
+  468  git remote -h
+  469  git remote add origin master git@github.com:Shashikuamar/sourcreshashi.git
+  470  git remote add origin git@github.com:Shashikuamar/sourcreshashi.git
+  471  git status
+  472  git add sourceshahi/
+  473  git status
+  474  git add sourcreshahi/
+  475  git add sourcreshashi/
+  476  git status
+  477  git commit -m"adde the file sourcecode"
+  478  git status
+  479  git remote -v
+  480  git push origin master
+  481  git status
+  482  git add first.py
+  483  git status
+  484  git commit -m"added first.py"
+  485  git status
+  486  git push origin master
+  487  git push
+  488  git push origin master
+  489  ssh-keygen -t rsa
+  490  cat /c/Users/shash/.ssh/id_rsa.pub
+  491   git push origin master
+  492  git status
+  493   git push origin master
+  494  cd OneDrive/desktop/SourceCode
+  495  history
+
