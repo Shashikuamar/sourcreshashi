@@ -2,6 +2,12 @@
 
 echo "This is a feature branch"
 
+echo "eiting from merhe conflict branch
+"
 echo "Now i will merge with master"
 
-echo "now edited from master"
+<<<<<<< HEAD
+echo "alredy merged"
+=======
+echo "alredy merge"
+>>>>>>> feature
