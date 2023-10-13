@@ -4,8 +4,4 @@ echo "This is a feature branch"
 
 echo "Now i will merge with master"
 
-<<<<<<< HEAD
-echo "alredy merged"
-=======
-echo "alredy merge"
->>>>>>> feature
+echo "now edited from master"
